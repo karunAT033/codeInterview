@@ -1,6 +1,5 @@
 {
-   "status":"successful",
-   "morse_code_dict":[
+   "morse_code":[
       {
          "A":".-",
          "B":"-...",
@@ -29,5 +28,8 @@
          "Y":"-.--",
          "Z":"--.."
       }
-   ]
+   ],
+   "profile":{
+      "name":"Mukesh"
+   }
 }
