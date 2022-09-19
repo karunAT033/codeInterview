@@ -13,6 +13,10 @@
         "DeviceLocation":"TestLoc",
         "MachineVendPrices":{
             "BaseCyclePrices":{
+                "Normal Hot":"3",
+                "Normal Warm":"2.5",
+                "PermPress Warm":"2.00",
+                "Delicate Cold":"1.75",
                 "Heavy":"3",
                 "Normal": "2.5",
                 "PermPress":"2.00",
