@@ -1,0 +1,37 @@
+{
+    "Remote_machine_programming":{
+        "IdempotencyKey": null,
+        "CommandGroupID": null,
+        "CurrentTimeStamp": null,
+        "LMID": null,
+        "LaundryMachineID": 236,
+        "PennyID": "1c:bf:ce:69:68:1a",
+        "RWF": 0,
+        "MachineType":"MDC",
+        "MachineModel":"M1",
+        "DeviceName":"balena_test",
+        "DeviceLocation":"TestLoc",
+        "MachineVendPrices":{
+            "BaseCyclePrices":{
+                "Heavy":"3",
+                "Normal": "2.5",
+                "PermPress":"2.00",
+                "Delicate":"1.75"
+            },
+            "ModifierCyclePrices":{
+              "A": "1.00",
+              "B": "1.25",
+              "C": "2.00"
+
+            }
+        },
+        "TopoffData":{
+            "TopOff_price":"0.25",
+            "TopOff_Time":"300"
+        },
+        "TopoffData_fullCycle":{
+            "TopOff_price":"1",
+            "TopOff_Time":"1200"
+        }
+}
+}
