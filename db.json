@@ -30,6 +30,7 @@
       }
    ],
    "profile":{
-      "name":"Tushar"
+      "name":"Tushar",
+      "encode_type": "1"
    }
 }
